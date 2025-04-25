@@ -5,8 +5,8 @@ This repository contains the BPR report for the Software Reengineering course, f
 This repository contains the BPR report for the Software Reengineering course, focusing on reengineering the COVID-19 diagnostic process using our FYP, "COVID-19 Detection Using Lung X-Ray Images."
 
 ## Files
-- BPR_Report_COVID19_Detection.docx: Full report in Word format.
-- BPR_Report_COVID19_Detection.pdf: PDF backup.
+- Business Process Reengineering Report.docx: Full report in Word format.
+- Business Process Reengineering Report.pdf: PDF backup.
 
 ## Authors
 - Muzamal Asghar (21-Arid-3433)
